@@ -5,4 +5,4 @@ Right click - Clears the node at targeted location.
 
 C - Clears and resets the board.
 
-T - Toggles wall around the edge of the map.
+T - Toggles wall around the edge of the board.
